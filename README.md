@@ -1,5 +1,7 @@
 # Chrome DevTools MCP 速查表 | chrome-devtools-mcp Cheatsheet | Guía rápida de chrome-devtools-mcp
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 chrome-devtools-mcp：Chrome DevTools 官方团队出的 MCP 服务与 CLI，让 Claude、Cursor、Copilot、Gemini CLI 等编程 agent 直接控制与检查一个真 Chrome——录性能轨迹、看网络请求、读带源码映射的控制台报错、截图、跑 Lighthouse 与无障碍审计。本页卖的不是翻译，是工具图、七个 skill 的分工，和两个默认开着的数据开关的关法。
 
 - 上游项目：[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)（2026-11-14 实测 56,109 ★ / 4,651 forks，65 个 release，Apache-2.0）
